@@ -1,0 +1,11 @@
+.venv/
+myenv/
+.idea/
+__pycache__/
+extracted_frames/
+.assert/
+output/
+*.mp4
+*.mov
+*.avi
+*.gif
